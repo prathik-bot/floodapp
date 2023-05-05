@@ -9,11 +9,14 @@ This Android App is for guiding to an alternative location in case of floods
 * It is extremely important to guide people out of a flood situation
 * Since Mobile phones are the most prevalent technology available to people around the world, a mobile app is the best technological solution to tackle this problem
 
+
 #What is it
 The project involves building an app on android platform that will guide users to the nearest safest area based on land elevation
 
+
 #What it does?
 The app uses the users location and real time flood data on the web to guide people to safe, elevated areas in the event of a flood
+
 
 #How it Works
 The app is written with Android studio using Java. 
